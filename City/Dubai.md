@@ -2,13 +2,13 @@
 has_id_wikidata: Q612
 social_media_followers: 5010
 instance_of:
-- "[[/_Standards/WikiData/WD~administrative territorial entity,56061]]"
+- "[[/_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
 - '[[/_Standards/WikiData/WD~metropolis,200250]]'
-- "[[/_Standards/WikiData/WD~global city,208511]]"
-- "[[/_Standards/WikiData/WD~big city,1549591]]"
-- "[[/_Standards/WikiData/WD~largest city,51929311]]"
+- "[[/_Standards/WikiData/WD~global_city,208511]]"
+- "[[/_Standards/WikiData/WD~big_city,1549591]]"
+- "[[/_Standards/WikiData/WD~largest_city,51929311]]"
 - '[[/_Standards/WikiData/WD~city,515]]'
-head_of_government: "[[/_Standards/WikiData/WD~Mohammed bin Rashid Al Maktoum,57655]]"
+head_of_government: "[[/_Standards/WikiData/WD~Mohammed_bin_Rashid_Al_Maktoum,57655]]"
 nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Dubai%20night%20skyline.jpg"
 population: 3331420
 inception: "1833-06-09T00:00:00Z"
@@ -43,50 +43,50 @@ demonym:
 - Doubaïote
 twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Monterrey,81033]]'
-- "[[/_Standards/WikiData/WD~Osaka Prefecture,122723]]"
+- "[[/_Standards/WikiData/WD~Osaka_Prefecture,122723]]"
 - '[[/_Standards/WikiData/WD~Dundee,123709]]'
-- "[[/_Standards/WikiData/WD~Gold Coast,140075]]"
+- "[[/_Standards/WikiData/WD~Gold_Coast,140075]]"
 - '[[/_Standards/WikiData/WD~Cheb,193719]]'
-- "[[/_Standards/WikiData/WD~Kish Island,221883]]"
+- "[[/_Standards/WikiData/WD~Kish_Island,221883]]"
 - '[[/_Standards/WikiData/WD~Jeddah,374365]]'
 - '[[/_Standards/WikiData/WD~Istanbul,406]]'
 - '[[/_Standards/WikiData/WD~Barcelona,1492]]'
 - '[[/_Standards/WikiData/WD~Baghdad,1530]]'
 - '[[/_Standards/WikiData/WD~Caracas,1533]]'
 - '[[/_Standards/WikiData/WD~Frankfurt,1794]]'
-- "[[/_Standards/WikiData/WD~Kuala Lumpur,1865]]"
+- "[[/_Standards/WikiData/WD~Kuala_Lumpur,1865]]"
 - '[[/_Standards/WikiData/WD~Khartoum,1963]]'
 - '[[/_Standards/WikiData/WD~Bogotá,2841]]'
 - '[[/_Standards/WikiData/WD~Tripoli,3579]]'
 - '[[/_Standards/WikiData/WD~Tehran,3616]]'
 - '[[/_Standards/WikiData/WD~Damascus,3766]]'
 - '[[/_Standards/WikiData/WD~Beirut,3820]]'
-- "[[/_Standards/WikiData/WD~Hong Kong,8646]]"
+- "[[/_Standards/WikiData/WD~Hong_Kong,8646]]"
 - '[[/_Standards/WikiData/WD~Karachi,8660]]'
-- "[[/_Standards/WikiData/WD~Rio de Janeiro,8678]]"
+- "[[/_Standards/WikiData/WD~Rio_de_Janeiro,8678]]"
 - '[[/_Standards/WikiData/WD~Shanghai,8686]]'
 - '[[/_Standards/WikiData/WD~Granada,8810]]'
 - '[[/_Standards/WikiData/WD~Gandhinagar,11910]]'
 - '[[/_Standards/WikiData/WD~Detroit,12439]]'
-- "[[/_Standards/WikiData/WD~Hyderabad district,15340]]"
+- "[[/_Standards/WikiData/WD~Hyderabad_district,15340]]"
 - '[[/_Standards/WikiData/WD~Busan,16520]]'
 - '[[/_Standards/WikiData/WD~Phoenix,16556]]'
 - '[[/_Standards/WikiData/WD~Guangzhou,16572]]'
 - '[[/_Standards/WikiData/WD~Pyongyang,18808]]'
 - '[[/_Standards/WikiData/WD~Vancouver,24639]]'
-- "[[/_Standards/WikiData/WD~New York City,60]]"
-- "[[/_Standards/WikiData/WD~Los Angeles,65]]"
+- "[[/_Standards/WikiData/WD~New_York_City,60]]"
+- "[[/_Standards/WikiData/WD~Los_Angeles,65]]"
 - '[[/_Standards/WikiData/WD~Geneva,71]]'
 - '[[/_Standards/WikiData/WD~Paris,90]]'
 - '[[/_Standards/WikiData/WD~Brisbane,34932]]'
-- "[[/_Standards/WikiData/WD~Kuwait City,35178]]"
+- "[[/_Standards/WikiData/WD~Kuwait_City,35178]]"
 - '[[/_Standards/WikiData/WD~Osaka,35765]]'
 - '[[/_Standards/WikiData/WD~Basra,48195]]'
-shares_border_with: "[[/_Standards/WikiData/WD~Emirate of Sharjah,188810]]"
+shares_border_with: "[[/_Standards/WikiData/WD~Emirate_of_Sharjah,188810]]"
 member_of:
-- "[[/_Standards/WikiData/WD~Creative Cities Network,1139352]]"
-- "[[/_Standards/WikiData/WD~World Tourism Cities Federation,67652870]]"
-founded_by: "[[/_Standards/WikiData/WD~Al Maktoum,2422081]]"
+- "[[/_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
+- "[[/_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870]]"
+founded_by: "[[/_Standards/WikiData/WD~Al_Maktoum,2422081]]"
 category_for_people_born_here: '[[/_Standards/WikiData/WD~Q8053012,8053012]]'
 category_of_associated_people: '[[/_Standards/WikiData/WD~Q21039190,21039190]]'
 category_for_people_who_died_here: '[[/_Standards/WikiData/WD~Q124001836,124001836]]'
@@ -107,10 +107,10 @@ FAQ_URL:
 UN_LOCODE: AEDXB
 coordinate_location: "Point(55.309444444 25.269722222)"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Dubai%20%282024%29.svg"
-different_from: "[[/_Standards/WikiData/WD~Emirate of Dubai,613]]"
-capital_of: "[[/_Standards/WikiData/WD~Emirate of Dubai,613]]"
-located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Emirate of Dubai,613]]"
-country: "[[/_Standards/WikiData/WD~United Arab Emirates,878]]"
+different_from: "[[/_Standards/WikiData/WD~Emirate_of_Dubai,613]]"
+capital_of: "[[/_Standards/WikiData/WD~Emirate_of_Dubai,613]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Emirate_of_Dubai,613]]"
+country: "[[/_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 located_in_time_zone: '[[/_Standards/WikiData/WD~UTC+04_00,6779]]'
 official_language: '[[/_Standards/WikiData/WD~Arabic,13955]]'
 continent: '[[/_Standards/WikiData/WD~Asia,48]]'
