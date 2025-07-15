@@ -139,10 +139,5 @@ United_Arab_Emirates (orthographic):
 By <a href="//commons.wikimedia.org/wiki/User:NuclearVacuum" title="User:NuclearVacuum">NuclearVacuum</a> - <a href="//commons.wikimedia.org/wiki/File:Middle_East_(orthographic_projection).svg" title="File:Middle East (orthographic projection).svg">Middle East (orthographic projection).svg</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0 "Creative Commons Attribution-Share Alike 3.0"), [Link](https://commons.wikimedia.org/w/index.php?curid=7466795)
 
 
-## Confidential Links & Embeds: 
-- [[United_Arab_Emirates|United_Arab_Emirates]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates.internal|United_Arab_Emirates.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates.protect|United_Arab_Emirates.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates.private|United_Arab_Emirates.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates.personal|United_Arab_Emirates.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates.secret|United_Arab_Emirates.secret]] 
+
+

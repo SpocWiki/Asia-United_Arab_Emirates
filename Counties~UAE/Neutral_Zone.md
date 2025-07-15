@@ -40,11 +40,18 @@ markerFolder: ./Neutral_Zone/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone|Neutral_Zone]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone.public|Neutral_Zone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone.internal|Neutral_Zone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone.protect|Neutral_Zone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone.private|Neutral_Zone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone.personal|Neutral_Zone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Neutral_Zone.secret|Neutral_Zone.secret]] 
+
+### #is_/same_as :: [Neutral_Zone](/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.md) 
+
+### #is_/same_as :: [Neutral_Zone.public](/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.public.md) 
+
+### #is_/same_as :: [Neutral_Zone.internal](/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.internal.md) 
+
+### #is_/same_as :: [Neutral_Zone.protect](/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.protect.md) 
+
+### #is_/same_as :: [Neutral_Zone.private](/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.private.md) 
+
+### #is_/same_as :: [Neutral_Zone.personal](/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.personal.md) 
+
+### #is_/same_as :: [Neutral_Zone.secret](/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.secret.md)
 

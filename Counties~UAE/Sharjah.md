@@ -40,11 +40,18 @@ markerFolder: ./Sharjah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah|Sharjah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.public|Sharjah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.internal|Sharjah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.protect|Sharjah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.private|Sharjah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.personal|Sharjah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Sharjah.secret|Sharjah.secret]] 
+
+### #is_/same_as :: [Sharjah](/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Sharjah.md) 
+
+### #is_/same_as :: [Sharjah.public](/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Sharjah.public.md) 
+
+### #is_/same_as :: [Sharjah.internal](/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Sharjah.internal.md) 
+
+### #is_/same_as :: [Sharjah.protect](/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Sharjah.protect.md) 
+
+### #is_/same_as :: [Sharjah.private](/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Sharjah.private.md) 
+
+### #is_/same_as :: [Sharjah.personal](/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Sharjah.personal.md) 
+
+### #is_/same_as :: [Sharjah.secret](/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Sharjah.secret.md)
 

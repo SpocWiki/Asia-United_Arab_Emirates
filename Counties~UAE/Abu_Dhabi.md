@@ -40,11 +40,18 @@ markerFolder: ./Abu_Dhabi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi|Abu_Dhabi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi.public|Abu_Dhabi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi.internal|Abu_Dhabi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi.protect|Abu_Dhabi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi.private|Abu_Dhabi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi.personal|Abu_Dhabi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/United_Arab_Emirates/Counties/Abu_Dhabi.secret|Abu_Dhabi.secret]] 
+
+### #is_/same_as :: [Abu_Dhabi](/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Abu_Dhabi.md) 
+
+### #is_/same_as :: [Abu_Dhabi.public](/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Abu_Dhabi.public.md) 
+
+### #is_/same_as :: [Abu_Dhabi.internal](/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Abu_Dhabi.internal.md) 
+
+### #is_/same_as :: [Abu_Dhabi.protect](/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Abu_Dhabi.protect.md) 
+
+### #is_/same_as :: [Abu_Dhabi.private](/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Abu_Dhabi.private.md) 
+
+### #is_/same_as :: [Abu_Dhabi.personal](/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Abu_Dhabi.personal.md) 
+
+### #is_/same_as :: [Abu_Dhabi.secret](/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Abu_Dhabi.secret.md)
 

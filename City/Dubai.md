@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q612
 social_media_followers: 5010
 instance_of:
@@ -129,4 +129,23 @@ madhhab: '[[/_Standards/WikiData/WD~Malikism,48221]]'
 > Dubai has the second-most five-star hotels in the world after London and the tallest building in the world, the Burj Khalifa, which is 828 metres (2,717 ft) tall. Located in the eastern Arabian Peninsula, on the coast of the Persian Gulf, it is a major global transportation hub for passengers and cargo. In 2024, Dubai was the seventh most-visited city in the world.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dubai) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dubai](/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Dubai.md) 
+
+### #is_/same_as :: [Dubai.public](/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Dubai.public.md) 
+
+### #is_/same_as :: [Dubai.internal](/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Dubai.internal.md) 
+
+### #is_/same_as :: [Dubai.protect](/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Dubai.protect.md) 
+
+### #is_/same_as :: [Dubai.private](/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Dubai.private.md) 
+
+### #is_/same_as :: [Dubai.personal](/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Dubai.personal.md) 
+
+### #is_/same_as :: [Dubai.secret](/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Dubai.secret.md)
 
