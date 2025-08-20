@@ -1,42 +1,43 @@
 ---
 location:
-- 24.47
-- 54.42
+  - 24.47
+  - 54.42
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26826
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: United Arab Emirates
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- United Arab Emirates
-- Emiratos Árabes Unidos
-- Émirats arabes unis
-- الإمارات العربية المتحدة
-- 阿拉伯联合酋长国
-- Объединенные Арабские Эмираты
-- the United Arab Emirates
-- United Arab Emirates (the)
-- los Emiratos Árabes Unidos
-- Emiratos Árabes Unidos (los)
+  - United Arab Emirates
+  - Emiratos Árabes Unidos
+  - Émirats arabes unis
+  - الإمارات العربية المتحدة
+  - 阿拉伯联合酋长国
+  - Объединенные Арабские Эмираты
+  - the United Arab Emirates
+  - United Arab Emirates (the)
+  - los Emiratos Árabes Unidos
+  - Emiratos Árabes Unidos (los)
 Languages:
-- ar-AE
-- fa
-- en
-- hi
-- ur
+  - ar-AE
+  - fa
+  - en
+  - hi
+  - ur
 ---
 
 
