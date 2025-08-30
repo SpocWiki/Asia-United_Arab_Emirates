@@ -120,6 +120,10 @@ vehicles_per_thousand_people: 540
 madhhab: '[[/_Standards/WikiData/WD~Malikism,48221]]'
 ---
 
+# [[Dubai]] 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Dubai,612|WD~Dubai,612]] 
+
 ## #has_/text_of_/abstract
 
 > **Dubai** is the most populous city in the United Arab Emirates and the capital of the Emirate of Dubai, the most populous of the country's seven emirates. As of 2024, the city has a population of around 3.79 million, more than 90% of which are expatriates.
