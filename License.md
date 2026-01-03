@@ -111,5 +111,19 @@ Except for the limited purpose of indicating to the public that the Work is lice
 Creative Commons may be contacted at <http://creativecommons.org/>.
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/License|License]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/License.public|License.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/License.internal|License.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/License.protect|License.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/License.private|License.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/License.personal|License.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/License.secret|License.secret]] 
 

@@ -87,3 +87,20 @@ coordinate_location: Point(55.274166666 25.197222222)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Burj%20Khalifa) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai/Burj_Khalifa|Burj_Khalifa]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai/Burj_Khalifa.public|Burj_Khalifa.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai/Burj_Khalifa.internal|Burj_Khalifa.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai/Burj_Khalifa.protect|Burj_Khalifa.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai/Burj_Khalifa.private|Burj_Khalifa.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai/Burj_Khalifa.personal|Burj_Khalifa.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai/Burj_Khalifa.secret|Burj_Khalifa.secret]] 
+

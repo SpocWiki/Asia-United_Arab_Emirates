@@ -135,21 +135,19 @@ madhhab: '[[/_Standards/WikiData/WD~Malikism,48221]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/Dubai) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dubai](Dubai.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai|Dubai]] 
 
-### #is_/same_as :: [Dubai.public](/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Dubai.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai.public|Dubai.public]] 
 
-### #is_/same_as :: [Dubai.internal](/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Dubai.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai.internal|Dubai.internal]] 
 
-### #is_/same_as :: [Dubai.protect](/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Dubai.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai.protect|Dubai.protect]] 
 
-### #is_/same_as :: [Dubai.private](/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Dubai.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai.private|Dubai.private]] 
 
-### #is_/same_as :: [Dubai.personal](/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Dubai.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai.personal|Dubai.personal]] 
 
-### #is_/same_as :: [Dubai.secret](/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Dubai.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai.secret|Dubai.secret]] 
 

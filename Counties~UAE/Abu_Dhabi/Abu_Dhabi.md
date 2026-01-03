@@ -60,19 +60,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Abu%20Dhabi)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abu_Dhabi](Abu_Dhabi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Abu_Dhabi/Abu_Dhabi|Abu_Dhabi]] 
 
-### #is_/same_as :: [Abu_Dhabi.public](/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Abu_Dhabi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Abu_Dhabi/Abu_Dhabi.public|Abu_Dhabi.public]] 
 
-### #is_/same_as :: [Abu_Dhabi.internal](/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Abu_Dhabi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Abu_Dhabi/Abu_Dhabi.internal|Abu_Dhabi.internal]] 
 
-### #is_/same_as :: [Abu_Dhabi.protect](/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Abu_Dhabi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Abu_Dhabi/Abu_Dhabi.protect|Abu_Dhabi.protect]] 
 
-### #is_/same_as :: [Abu_Dhabi.private](/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Abu_Dhabi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Abu_Dhabi/Abu_Dhabi.private|Abu_Dhabi.private]] 
 
-### #is_/same_as :: [Abu_Dhabi.personal](/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Abu_Dhabi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Abu_Dhabi/Abu_Dhabi.personal|Abu_Dhabi.personal]] 
 
-### #is_/same_as :: [Abu_Dhabi.secret](/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/City/Abu_Dhabi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Abu_Dhabi/Abu_Dhabi.secret|Abu_Dhabi.secret]] 
 

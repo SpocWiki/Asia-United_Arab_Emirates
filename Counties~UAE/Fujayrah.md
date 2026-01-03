@@ -40,17 +40,17 @@ markerFolder: ./Fujayrah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fujayrah](/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Fujayrah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Fujayrah|Fujayrah]] 
 
-### #is_/same_as :: [Fujayrah.public](/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Fujayrah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Fujayrah.public|Fujayrah.public]] 
 
-### #is_/same_as :: [Fujayrah.internal](/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Fujayrah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Fujayrah.internal|Fujayrah.internal]] 
 
-### #is_/same_as :: [Fujayrah.protect](/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Fujayrah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Fujayrah.protect|Fujayrah.protect]] 
 
-### #is_/same_as :: [Fujayrah.private](/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Fujayrah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Fujayrah.private|Fujayrah.private]] 
 
-### #is_/same_as :: [Fujayrah.personal](/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Fujayrah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Fujayrah.personal|Fujayrah.personal]] 
 
-### #is_/same_as :: [Fujayrah.secret](/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Fujayrah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Fujayrah.secret|Fujayrah.secret]] 
 

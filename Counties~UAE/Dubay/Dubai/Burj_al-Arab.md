@@ -23,3 +23,20 @@ has_id_wikidata: Q62939
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Burj%20Al%20Arab) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai/Burj_al-Arab|Burj_al-Arab]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai/Burj_al-Arab.public|Burj_al-Arab.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai/Burj_al-Arab.internal|Burj_al-Arab.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai/Burj_al-Arab.protect|Burj_al-Arab.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai/Burj_al-Arab.private|Burj_al-Arab.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai/Burj_al-Arab.personal|Burj_al-Arab.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay/Dubai/Burj_al-Arab.secret|Burj_al-Arab.secret]] 
+

@@ -40,17 +40,17 @@ markerFolder: ./Ras_Al_Khaymah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ras_Al_Khaymah](/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Ras_Al_Khaymah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Ras_Al_Khaymah|Ras_Al_Khaymah]] 
 
-### #is_/same_as :: [Ras_Al_Khaymah.public](/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Ras_Al_Khaymah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Ras_Al_Khaymah.public|Ras_Al_Khaymah.public]] 
 
-### #is_/same_as :: [Ras_Al_Khaymah.internal](/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Ras_Al_Khaymah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Ras_Al_Khaymah.internal|Ras_Al_Khaymah.internal]] 
 
-### #is_/same_as :: [Ras_Al_Khaymah.protect](/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Ras_Al_Khaymah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Ras_Al_Khaymah.protect|Ras_Al_Khaymah.protect]] 
 
-### #is_/same_as :: [Ras_Al_Khaymah.private](/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Ras_Al_Khaymah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Ras_Al_Khaymah.private|Ras_Al_Khaymah.private]] 
 
-### #is_/same_as :: [Ras_Al_Khaymah.personal](/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Ras_Al_Khaymah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Ras_Al_Khaymah.personal|Ras_Al_Khaymah.personal]] 
 
-### #is_/same_as :: [Ras_Al_Khaymah.secret](/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Ras_Al_Khaymah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Ras_Al_Khaymah.secret|Ras_Al_Khaymah.secret]] 
 

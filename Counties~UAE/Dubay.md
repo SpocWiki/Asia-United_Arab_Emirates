@@ -40,17 +40,17 @@ markerFolder: ./Dubay/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dubay](/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay|Dubay]] 
 
-### #is_/same_as :: [Dubay.public](/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay.public|Dubay.public]] 
 
-### #is_/same_as :: [Dubay.internal](/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay.internal|Dubay.internal]] 
 
-### #is_/same_as :: [Dubay.protect](/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay.protect|Dubay.protect]] 
 
-### #is_/same_as :: [Dubay.private](/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay.private|Dubay.private]] 
 
-### #is_/same_as :: [Dubay.personal](/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay.personal|Dubay.personal]] 
 
-### #is_/same_as :: [Dubay.secret](/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Dubay.secret|Dubay.secret]] 
 

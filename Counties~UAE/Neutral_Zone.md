@@ -40,17 +40,17 @@ markerFolder: ./Neutral_Zone/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neutral_Zone](/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone|Neutral_Zone]] 
 
-### #is_/same_as :: [Neutral_Zone.public](/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.public|Neutral_Zone.public]] 
 
-### #is_/same_as :: [Neutral_Zone.internal](/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.internal|Neutral_Zone.internal]] 
 
-### #is_/same_as :: [Neutral_Zone.protect](/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.protect|Neutral_Zone.protect]] 
 
-### #is_/same_as :: [Neutral_Zone.private](/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.private|Neutral_Zone.private]] 
 
-### #is_/same_as :: [Neutral_Zone.personal](/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.personal|Neutral_Zone.personal]] 
 
-### #is_/same_as :: [Neutral_Zone.secret](/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/Counties~UAE/Neutral_Zone.secret|Neutral_Zone.secret]] 
 
