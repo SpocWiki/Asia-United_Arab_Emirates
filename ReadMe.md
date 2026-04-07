@@ -123,7 +123,7 @@ markerFolder: ./
 [Area-Land::83600] 
 Continent :: [[Asia]]  
 [VehicleCode::UAE] 
-Capital :: [[Counties~UAE/Abu_Dhabi/Abu_Dhabi]]  
+Capital :: [[Counties~UAE/Abu_Dhabi/Abu_Dhabi|Abu_Dhabi]]  
 ![[United_Arab_Emirates/Emblem_of_the_United_Arab_Emirates.svg|350]]  
 
 ![[Anthem-United-arab-emirates.mp3]] 

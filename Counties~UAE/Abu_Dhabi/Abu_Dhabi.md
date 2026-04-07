@@ -21,12 +21,12 @@ has_id_wikidata: Q1519
 [geo-lat::24.47] 
 [name::Abu Dhabi] 
 State ::  
-Country :: [[../../../United_Arab_Emirates]]  
+Country :: [[../../../United_Arab_Emirates|United_Arab_Emirates]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Abu_Dhabi,1519]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Abu_Dhabi,1519|WD~Abu_Dhabi,1519]] 
 
 ```leaflet
 id: Abu Dhabi
