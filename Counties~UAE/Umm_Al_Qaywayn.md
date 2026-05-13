@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Umm_Al_Qaywayn/
 markerFolder: ./Umm_Al_Qaywayn/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

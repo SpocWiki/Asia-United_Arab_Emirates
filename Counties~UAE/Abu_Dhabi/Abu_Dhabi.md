@@ -58,7 +58,7 @@ maxZoom: 18
 >
 > Abu Dhabi houses local and federal government offices and is the home of the United Arab Emirates Government and the Supreme Council for Financial and Economic Affairs. The city is home to the UAE's president, a member of the Al Nahyan family. Abu Dhabi's rapid development and urbanisation, coupled with the massive oil and gas reserves and production and relatively high average income, have transformed it into a large, developed metropolis. It is the country's centre of politics and industry, and a major culture and commerce center. Abu Dhabi accounts for about two-thirds of the roughly $503 billion UAE economy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Abu%20Dhabi)
+> [Wikipedia](https://en.wikipedia.org/wiki/Abu%20Dhabi) 
 
 
 ## Confidential Links & Embeds: 
