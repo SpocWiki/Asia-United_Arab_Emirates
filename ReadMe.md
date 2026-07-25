@@ -29,7 +29,7 @@ dv_UNTERM_Chinese_Formal: 阿拉伯联合酋长国
 dv_UNTERM_French_Formal: les Émirats arabes unis
 dv_UNTERM_Russian: Объединенные Арабские Эмираты
 dv_UNTERM_Russian_Formal: Объединенные Арабские Эмираты
-dv_Region_Name: '[[../../Asia|Asia]]'
+dv_Region_Name: '[[../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[United_Arab_Emirates]]'
 dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
@@ -53,7 +53,7 @@ dv_ISO2: AE
 dv_ISO3: ARE
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]'
+  - '[[../../../../../WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates|United_Arab_Emirates]]'
   - '[[/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.public|United_Arab_Emirates.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.internal|United_Arab_Emirates.internal]]'
@@ -358,17 +358,17 @@ dv_has_:
 dv_has_name_de: Vereinigte Arabische Emirate
 dv_Area-Total: 77700
 dv_Area-Land: 83600
-dv_has_place_continent: '[[../../Asia|Asia]]'
+dv_has_place_continent: '[[../../../Asia|Asia]]'
 dv_VehicleCode: UAE
-dv_Capital: '[[United_Arab_Emirates/Counties~UAE/Abu_Dhabi/Abu_Dhabi|Abu_Dhabi]]'
+dv_Capital: '[[Counties~UAE/Abu_Dhabi/Abu_Dhabi|Abu_Dhabi]]'
 dv_Alcohol-l: 0.5
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 54.42
 dv_has_place_latitude: 24.47
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]'
+- '[[../../../../../WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates|United_Arab_Emirates]]'
 - '[[/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.public|United_Arab_Emirates.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.internal|United_Arab_Emirates.internal]]'
@@ -1131,7 +1131,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[United_Arab_Emirates/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ## #has_/map  
@@ -1152,7 +1152,7 @@ defaultZoom: 6
 
 ```leaflet
 id: United_Arab_Emirates_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1178,10 +1178,10 @@ Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
-![[United_Arab_Emirates/Emblem_of_the_United_Arab_Emirates.svg|350]]  
+![[Emblem_of_the_United_Arab_Emirates.svg|350]]  
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-arab-emirates.mp3|Anthem-United-arab-emirates.mp3]]
-![[United_Arab_Emirates/Flag_of_the_United_Arab_Emirates.svg|350]]  
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-United-arab-emirates.mp3|Anthem-United-arab-emirates.mp3]]
+![[Flag_of_the_United_Arab_Emirates.svg|350]]  
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
