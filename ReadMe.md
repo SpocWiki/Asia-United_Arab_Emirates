@@ -1211,17 +1211,17 @@ By <a href="//commons.wikimedia.org/wiki/User:NuclearVacuum" title="User:Nuclear
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates|United_Arab_Emirates]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/ReadMe|ReadMe]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.public|United_Arab_Emirates.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/ReadMe.public|ReadMe.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.internal|United_Arab_Emirates.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/ReadMe.internal|ReadMe.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.protect|United_Arab_Emirates.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/ReadMe.protect|ReadMe.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.private|United_Arab_Emirates.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/ReadMe.private|ReadMe.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.personal|United_Arab_Emirates.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/ReadMe.personal|ReadMe.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.secret|United_Arab_Emirates.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates/ReadMe.secret|ReadMe.secret]] 
 
