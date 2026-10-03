@@ -379,8 +379,6 @@ dv_has_:
 
 ## Merged from `_Standards/Earth/Geography/Place/Burj_Khalifa.md`
 
-![[../../../assets/Burj_Khalifa.png|Burj_Khalifa.png]]
-
 ## #has_/map
 
 ```leaflet

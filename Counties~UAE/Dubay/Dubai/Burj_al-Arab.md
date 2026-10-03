@@ -212,9 +212,6 @@ dv_has_:
 
 ## Merged from `_Standards/Earth/Geography/Place/Burj_al-Arab.md`
 
-![[../../../assets/Burj_al-Arab.png|Burj_al-Arab.png]]
-By <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/joi/">Joi Ito</a> - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/joi/2086020608/">https://www.flickr.com/photos/joi/2086020608/</a>, <a href="https://creativecommons.org/licenses/by/2.0/" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://en.wikipedia.org/w/index.php?curid=36016613">Link</a>
-
 ## #has_/map
 
 ```leaflet
